@@ -8,7 +8,7 @@ Projeto desenvolvido em **PHP 8.2.12**, utilizando boas práticas e estrutura or
 
 - 🐘 **PHP 8.2.12**
 - 💻 **MVC (Model-View-Controller)**
-- 🌐 **MySQL 8** (via **XAMPP 3.3.0**)
+- 🌐 **MySQL** (via **XAMPP 3.3.0**)
 - 🎨 **Tailwind CSS**
 - 🔑 **phpdotenv** para variáveis de ambiente
 - 🛡 **Proteção CSRF** em todos os controller
