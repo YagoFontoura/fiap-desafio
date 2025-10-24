@@ -18,7 +18,7 @@ Projeto desenvolvido em **PHP 8.2.12**, utilizando boas práticas e estrutura or
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/yagofontoura/fiap-projeto.git
+git clone https://github.com/YagoFontoura/fiap-desafio.git
 ```
 
 ### 2. Configurar banco de dados
