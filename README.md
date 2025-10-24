@@ -25,16 +25,12 @@ git clone https://github.com/yagofontoura/fiap-projeto.git
 
 - Estrutura da base de dados disponível em:
 
-  ```
-  ./database/secretaria_fiap.sql
-  ```
-
-```bash
-  mysql -u root -p
+```
+  ./database/dump.sql
 ```
 
 ```bash
-  mysql> source secretaria_fiap.sql;
+  mysql -u root -p < dump.sql
 ```
 
 ### 3. Configurar conexão com o banco
@@ -69,7 +65,7 @@ Suba o projeto em seu servidor local (ex: **XAMPP, WAMPP ou similar**) e acesse 
 
 ```
 Email: admin@fiap.com.br
-Senha: Fiap@2025
+Senha: Fiap@2026
 ```
 
 ---
